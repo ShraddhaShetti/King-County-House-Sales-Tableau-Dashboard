@@ -14,3 +14,8 @@ The dashboard includes various graphs and heatmaps to provide insights into the 
 **Distribution of House Prices**: A histogram showing the distribution of house prices.<br>
 **View vs Condition Heatmap**: Understand how house conditions and views affect prices.<br>
 **Distribution of Bedrooms and Bathrooms**: Histograms showing the distribution of the number of bedrooms and bathrooms.<br>
+
+## The Dashboard<br>
+
+![KingCountyHouseSales](https://github.com/user-attachments/assets/0f3cf1a3-7d81-480f-882f-3b703763c094)
+
