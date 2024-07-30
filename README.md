@@ -9,10 +9,15 @@ The dashboard includes various graphs and heatmaps to provide insights into the 
 
 ## Features<br>
 **Filters**: Select month, day, year built, square footage of living space, and lot size to customize the data view.<br>
+
 **Daily Average House Sales Price**: Track house sales over time with a line chart.<br>
+
 **Map**: Visualize the geographic distribution of house sales across King County.<br>
+
 **Distribution of House Prices**: A histogram showing the distribution of house prices.<br>
+
 **View vs Condition Heatmap**: Understand how house conditions and views affect prices.<br>
+
 **Distribution of Bedrooms and Bathrooms**: Histograms showing the distribution of the number of bedrooms and bathrooms.<br>
 
 ## The Dashboard<br>
