@@ -1,8 +1,8 @@
 # King County House Sales Tableau Dashboard<br>
 
-https://public.tableau.com/views/KingCountyWashingtonHouseSalesDashboard_17065946314370/KingCountyHouseSales?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-
 Welcome! This project showcases an interactive Tableau dashboard that visualizes house sales data in King County, Washington.
+
+View the dashboard [here](https://public.tableau.com/views/KingCountyWashingtonHouseSalesDashboard_17065946314370/KingCountyHouseSales?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 ## Overview<br>
 The dashboard includes various graphs and heatmaps to provide insights into the housing market in King County. The visualizations help to identify trends, patterns, and key metrics that can aid in making informed decisions regarding real estate investments and market analysis.<br>
@@ -20,7 +20,7 @@ The dashboard includes various graphs and heatmaps to provide insights into the 
 
 **Distribution of Bedrooms and Bathrooms**: Histograms showing the distribution of the number of bedrooms and bathrooms.<br>
 
-## The Dashboard<br>
+## A glimse of the Dashboard<br>
 
 ![KingCountyHouseSales](https://github.com/user-attachments/assets/0f3cf1a3-7d81-480f-882f-3b703763c094)
 
